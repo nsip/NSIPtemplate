@@ -1,4 +1,4 @@
-<img src="https://xxxxlogoLinkGoesHere" alt="xxxx" width="565">
+<img src="https://xxxxlogoLinkGoesHere" alt="image/logo goes here xxxx" width="565">
 
 One phrase description of repo created by [contributor(s)](https://links).
 
