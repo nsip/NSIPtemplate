@@ -103,4 +103,6 @@ xxxx stands on the shoulder of many great open source libraries, in lexical orde
  | :------------- | :------------- |
  | [linkname](https://librarylink) | MIT License |
  (add rows as required)
+ 
+ Thanks to Hugo for this readme structure: https://github.com/gohugoio/hugo
 
