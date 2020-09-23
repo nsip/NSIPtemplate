@@ -1,15 +1,16 @@
 <img src="https://xxxxlogoLinkGoesHere" alt="image/logo goes here xxxx" width="565">
 
-One phrase description of repo created by [contributor(s)](https://links).
+(One phrase description of repo created by [contributor(s)](https://links)).
 
 [Website](https://xxxxwebsiteifany) |
 [Documentation](https://xxxxlinktodoco) |
 [Installation Guide](https://xxxxinstallguideinthisrepo) |
 [Contribution Guide](CONTRIBUTING.md) |
+[Do we have/want a forum?](https://nsipproductforum) |
 
 ## Overview
 
-A few short paragraphs on the product and what it does. (Keep to an external user view)
+(A few short paragraphs on the product and what it does. Keep to an external user view.)
 
 #### Supported Architectures
 
@@ -37,7 +38,7 @@ Use the [installation instructions in the xxxx documentation](https://xxxx/getti
 #### Prerequisite Tools
 
 * [Git](https://git-scm.com/)
-* [Go (we test it with the last 2 major versions)](https://golang.org/dl/)
+* [Go (we test it with the last ??? major versions)](https://golang.org/dl/)
 
 #### Fetch from GitHub
 
