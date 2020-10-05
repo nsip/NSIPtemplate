@@ -6,7 +6,7 @@
 [Documentation](https://xxxxlinktodoco) |
 [Installation Guide](https://xxxxinstallguideinthisrepo) |
 [Contribution Guide](CONTRIBUTING.md) |
-[Do we have/want a forum?](https://nsipproductforum) |
+
 
 ## Overview
 
